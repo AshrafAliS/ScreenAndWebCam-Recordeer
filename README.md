@@ -10,9 +10,6 @@
 ### Next Page
 ![Output Page](https://raw.githubusercontent.com/AshrafAliS/ScreenAndWebCam-Recordeer/master/Screenshots/output.PNG)
 
-### Next Page
-![Output Page](https://raw.githubusercontent.com/AshrafAliS/ScreenAndWebCam-Recordeer/master/Screenshots/record select.PNG.PNG)
-
 ### Recorded Page
 ![Output Page](https://raw.githubusercontent.com/AshrafAliS/ScreenAndWebCam-Recordeer/master/Screenshots/record%20select.PNG)
 
